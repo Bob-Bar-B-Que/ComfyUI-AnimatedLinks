@@ -9,9 +9,6 @@
 [![Ukraine](https://img.shields.io/badge/Made%20in-Ukraine%20🇺🇦-FFD700?style=for-the-badge&labelColor=005BBB)]()
 
 ---
-## 🎬 Demo
-
-<video src="assets/Links.mp4" autoplay loop muted width="700"></video>
 
 ## 🌻 Features
 <!-- Replace with actual screenshots/webp when ready -->
