@@ -121,13 +121,16 @@ If this extension helps your workflow, consider supporting a Ukrainian developer
 [![Donatello](https://img.shields.io/badge/🌻%20Donatello-Support-FFD700?style=for-the-badge&labelColor=005BBB)](https://donatello.to/Bob-Bar-B-Que)
 
 ### 🌾 Monobank
-> 💳 Monobank jar: `https://send.monobank.ua/jar/2UtLeKrSa8`
+Scan the QR code or click on it to open the bank:
+
+[![Monobank QR](assets/mono.png)](https://send.monobank.ua/jar/2UtLeKrSa8)
 
 ### 🪙 Crypto — USDT TRC20
-```
-TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k
-```
 
+Scan the QR code or click on it to copy the address:
+[![USDT TRC20 QR](assets/USDT_trc20.jpg)](https://t.me/share/url?url=TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k&text=USDT%20TRC20%20address)
+
+```
 ## 📄 License
 
 MIT License — free to use, modify and distribute.
