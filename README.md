@@ -100,7 +100,7 @@ const CONFIG = {
 ```
 ## 📋 Changelog
 
-### v1.7 — Current
+### v1.0 — Current
 - 🌊 Animated directional arrow triangles
 - 🌾 Dynamic arrow count based on link length
 - ⚡ Normalized animation speed across all link lengths
