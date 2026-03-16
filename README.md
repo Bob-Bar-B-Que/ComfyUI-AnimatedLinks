@@ -128,6 +128,7 @@ Scan the QR code or click on it to open the bank:
 ### 🪙 Crypto — USDT TRC20
 
 Scan the QR code or click on it to copy the address:
+
 [![USDT TRC20 QR](assets/USDT_trc20.png)](https://t.me/share/url?url=TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k&text=USDT%20TRC20%20address)
 
 ```
