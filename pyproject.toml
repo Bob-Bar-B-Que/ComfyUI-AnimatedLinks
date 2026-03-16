@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-animated-links"
+description = "Visual enhancement extension that adds animated arrows to links on hover and highlights Set/Get node pairs."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Bob-Bar-B-Que/ComfyUI-AnimatedLinks"
+
+[tool.comfy]
+PublisherId = "bob-bar-b-que"
+DisplayName = "ComfyUI Animated Links"
+Tags = ["visual", "ui", "links", "animation", "set-get"]
