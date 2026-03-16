@@ -17,8 +17,8 @@
 <!-- Replace with actual screenshots/webp when ready -->
 | Feature | Preview |
 |---|---|
-| 🌊 Animated arrows on hover | <video src="assets/Links.mp4" autoplay loop muted width="400"></video> |
-| 🌻 Set/Get node highlighting | <video src="assets/Set_Get.mp4" autoplay loop muted width="400"></video> |
+| 🌊 Animated arrows on hover | https://github.com/user-attachments/assets/189f020e-0b3f-4464-8b6e-aaec55aa47af |
+| 🌻 Set/Get node highlighting | https://github.com/user-attachments/assets/b6036154-6adb-4478-b8d0-a833cac629f3 |
 
 ---
 
