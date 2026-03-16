@@ -9,13 +9,16 @@
 [![Ukraine](https://img.shields.io/badge/Made%20in-Ukraine%20🇺🇦-FFD700?style=for-the-badge&labelColor=005BBB)]()
 
 ---
+## 🎬 Demo
+
+<video src="assets/Links.mp4" autoplay loop muted width="700"></video>
 
 ## 🌻 Features
 <!-- Replace with actual screenshots/webp when ready -->
 | Feature | Preview |
 |---|---|
-| 🌊 Animated arrows on hover | <video src="https://github.com/user-attachments/assets/189f020e-0b3f-4464-8b6e-aaec55aa47af" controls loop muted width="400"></video> |
-| 🌻 Set/Get node highlighting | <video src="https://github.com/user-attachments/assets/b6036154-6adb-4478-b8d0-a833cac629f3" controls loop muted width="400"></video> |
+| 🌊 Animated arrows on hover | <video src="assets/Links.mp4" autoplay loop muted width="400"></video> |
+| 🌻 Set/Get node highlighting | <video src="assets/Set_Get.mp4" autoplay loop muted width="400"></video> |
 
 ---
 
@@ -100,7 +103,7 @@ const CONFIG = {
 ```
 ## 📋 Changelog
 
-### v1.0 — Current
+### v1.7 — Current
 - 🌊 Animated directional arrow triangles
 - 🌾 Dynamic arrow count based on link length
 - ⚡ Normalized animation speed across all link lengths
@@ -118,17 +121,13 @@ If this extension helps your workflow, consider supporting a Ukrainian developer
 [![Donatello](https://img.shields.io/badge/🌻%20Donatello-Support-FFD700?style=for-the-badge&labelColor=005BBB)](https://donatello.to/Bob-Bar-B-Que)
 
 ### 🌾 Monobank
-Scan the QR code or click on it to open the bank:
-
-[![Monobank QR](assets/mono.png)](https://send.monobank.ua/jar/2UtLeKrSa8)
+> 💳 Monobank jar: `https://send.monobank.ua/jar/2UtLeKrSa8`
 
 ### 🪙 Crypto — USDT TRC20
-
-Scan the QR code or click on it to copy the address:
-
-[![USDT TRC20 QR](assets/USDT_trc20.png)](https://t.me/share/url?url=TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k&text=USDT%20TRC20%20address)
-
 ```
+TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k
+```
+
 ## 📄 License
 
 MIT License — free to use, modify and distribute.
