@@ -96,11 +96,29 @@ const CONFIG = {
   glowWidth: 8,          // Width of the glow line
   glowBlur: 18,          // Intensity of the glow effect
 };
-
 ```
+
+### 🐞 Troubleshooting
+If nothing animates, open the browser console (F12) and run:
+
+```javascript
+AnimatedLinks.debug()
+```
+
+Please include its output when reporting an issue.
+
+---
+
 ## 📋 Changelog
 
-### v1.0 — Current
+### v2.0 — Current
+- 🛠️ Fixed compatibility with newer ComfyUI frontends (tested against 1.61)
+- 🌊 Link geometry is now captured through the prototype, so it survives workflow/tab/subgraph changes
+- 🧩 Works with Nodes 2.0 (Vue nodes) as well as the classic canvas
+- 🔁 Fallback geometry for links the renderer did not report, support for reroutes and link render modes
+- 🐞 Added `AnimatedLinks.debug()` for diagnostics
+
+### v1.0
 - 🌊 Animated directional arrow triangles
 - 🌾 Dynamic arrow count based on link length
 - ⚡ Normalized animation speed across all link lengths
@@ -128,7 +146,8 @@ Scan the QR code or click on it to copy the address:
 
 [![USDT TRC20 QR](assets/USDT_trc20.png)](https://t.me/share/url?url=TKdsmXceZ2cUFDtF1hbPybZTvfarsuvP3k&text=USDT%20TRC20%20address)
 
-```
+---
+
 ## 📄 License
 
 MIT License — free to use, modify and distribute.
